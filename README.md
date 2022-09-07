@@ -15,8 +15,8 @@ A Multi Difficulty Level Board Game - A Sim-2-Real Testbed for Reinforcement Lea
 <hr/>
 
 ### Task list
-- [x] Completed Phase I: Acheiving first successful result on the environment in simulation
+- [x] Completed Phase I: Achieving first successful result on the environment in simulation
 - [ ] Wrapping-Up the environment
 - [ ] Complete RealWorld testbed
 - [ ] Completed experimentation :tada:
-- [ ] Completed Phase II: Acheiving first successful result with Robot manipulation
+- [ ] Completed Phase II: Achieving first successful result with Robot manipulation

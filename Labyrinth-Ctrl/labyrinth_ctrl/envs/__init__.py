@@ -1,0 +1,3 @@
+from labyrinth_ctrl.envs.labyrinth_ctrl_env import LabyrinthCtrlEnv
+from labyrinth_ctrl.envs.labyrinth_ctrl_discrete_env import LabyrinthCtrlDiscreteEnv
+from labyrinth_ctrl.envs.labyrinth_ctrl_discrete_noImage_env import LabyrinthCtrlDiscreteNoIMGEnv

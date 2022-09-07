@@ -1,0 +1,13 @@
+imageio
+keras==2.2.4
+matplotlib
+numpy
+tensorflow-gpu==1.15.0
+gym
+mazelib==0.9.11
+mpi4py==3.0.3
+opencv-contrib-python==4.3.0.36
+opencv-python==4.3.0.36
+pyrep==4.1.0.2
+protobuf==3.13.0
+stable-baselines==2.10.2
